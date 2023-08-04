@@ -59,7 +59,7 @@ header{
     text-align: right;
     position: relative;
     top: 75px;
-    right: 80px;
+    right: 100px;
     font-family: 'Bodoni Moda', serif;
     font-size: 35px;
     font-weight: bolder;
@@ -71,7 +71,7 @@ header{
     width: 500px;
     position: relative;
     top: 120px; 
-    left: 800px;
+    left: 1000px;
     font-size: x-large;
     word-spacing: 15px;
     text-align: right;
@@ -88,7 +88,7 @@ header{
     font-weight: 600;
     position: relative;
     top: 120px; 
-    left: 1000px;
+    left: 1200px;
     cursor: pointer;
     transition: 0.25s;
 }
